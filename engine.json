@@ -12,7 +12,7 @@
       "name": "fpg",
       "params": {
         "minSupport": 0.2,
-        "minConfidence": 0.6,
+        "minConfidence": 0.5,
         "numPartitions": 10
       }
     }
